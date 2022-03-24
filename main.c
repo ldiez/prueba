@@ -3,9 +3,8 @@
 
 int main()
 {
-  
-  
+
   printf("Hello world\n");
   printf("changes in main\n");
-
+  printf("Changes in second branch\n");
 }
