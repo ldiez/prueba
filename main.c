@@ -1,7 +1,9 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-int main (){
+int main()
+{
   printf("Hello world\n");
   printf("Updated main\n");
+  printf("Updated feature 1\n");
 }
