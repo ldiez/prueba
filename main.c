@@ -15,7 +15,7 @@ int main()
   for (int i = 0; i < 10; ++i){
     // Main functionality check
     if (MainFunctionality(i) == i){
-      printf("SUCCESS: main functionality %d\n", i);
+      printf("SUCCESS: mas in functionality %d\n", i);
     } else {
       printf("FAILED: main functionality %d\n", i);
       ret = -1;
