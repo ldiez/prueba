@@ -5,6 +5,7 @@ int MainFunctionality (int i) {
   return i != 5? i : i-1;
 }
 
+// cambios en el main
 int main()
 {
   int ret = 0;
