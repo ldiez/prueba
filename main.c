@@ -6,6 +6,7 @@ int MainFunctionality (int i) {
 }
 
 // cambios en el main
+// cambios en el icons
 int main()
 {
   int ret = 0;
