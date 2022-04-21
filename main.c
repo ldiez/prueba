@@ -7,7 +7,7 @@ int MainFunctionality (int i) {
 
 // cambios en el main
 // cambios en el icons
-// cambios en el icons para solucionar issue
+// cambios en el icons para solucionar issue  
 int main()
 {
   int ret = 0;
