@@ -6,7 +6,7 @@ int MainFunctionality (int i) {
 }
 
 // cambios en el main
-  // cambios en el icons  sadf 
+// cambios en el icons  sadf 
 // cambios en el icons para solucionar issue  
 int main()
 {
